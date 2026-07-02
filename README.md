@@ -142,7 +142,7 @@ LightGBM consistently outperformed all baseline and statistical forecasting mode
 ### Model Comparison
 
 <p align="center">
-  <img src="images/model_comparison.png" width="700">
+  <img src="images/model_comparison.png" width="900">
 </p>
 
 ---
@@ -159,7 +159,11 @@ The most influential predictors were:
 
 This confirms the conclusions obtained during the exploratory data analysis.
 
+### Feature Importance
 
+<p align="center">
+  <img src="images/feature_importance.png" width="900">
+</p>
 
 ---
 
