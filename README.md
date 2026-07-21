@@ -167,10 +167,9 @@ jupyter notebook notebooks/02_modeling_lightgbm.ipynb
 
 **Raúl Cuéllar** — Data Analyst with hands-on enterprise experience in SAP HANA, SQL, and production data systems, combining ML/statistics with real-world business context.
 
-- 🔗 LinkedIn: `[www.linkedin.com/in/raúl-eduardo-garcía-cuéllar-5843bb40aL]`
-- 💻 GitHub: `[https://github.com/Edugar97]`
-- 📧 Email: `[raulcuellar.rc97@gmail.com]`
-
+- **LinkedIn** — [raúl-eduardo-garcía-cuéllar](https://www.linkedin.com/in/raúl-eduardo-garcía-cuéllar-5843bb40aL)
+- **GitHub** — [github.com/Edugar97](https://github.com/Edugar97)
+- **Email** — [raulcuellar.rc97@gmail.com](mailto:raulcuellar.rc97@gmail.com)
 ---
 
 ## 📄 License
